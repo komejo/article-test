@@ -1,0 +1,12 @@
+uuid: dbafbcb4-7746-4b06-9600-eb89b0d2c467
+name: article-test
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
